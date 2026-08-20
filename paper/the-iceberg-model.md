@@ -216,7 +216,7 @@ The model will change. The examinations will not be weakened.
 
 ## 8. Reproduction
 
-The companion archive contains the model, all examination definitions, and the runner; the full battery reproduces with one command (`python run_exams.py all --record v4`), regenerating the 150-row table including the three red rows. Every number in §5–§6 appears in the printed output of its cited row. Archive: *(repository URL and Zenodo DOI inserted at publication).*
+The companion archive contains the model, all examination definitions, and the runner; the full battery reproduces with one command (`python run_exams.py all --record v4`), regenerating the 150-row table including the three red rows. Every number in §5–§6 appears in the printed output of its cited row. Archive: **github.com/masteris777/iceberg-model** (the model's canonical home; this paper is its manifest) — *Zenodo DOI inserted at publication.*
 
 ---
 
