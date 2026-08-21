@@ -7,9 +7,9 @@ authors:
 version: solaris-1.0.0
 date-released: 2026-08-20
 license: MIT
+repository-code: "https://github.com/questforentropy/iceberg-model"
 keywords:
   - quantum mechanics
   - emergent spacetime
   - distributed ledger
   - toy model
-repository-code: "https://github.com/questforentropy/iceberg-model"

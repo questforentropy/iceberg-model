@@ -1,5 +1,7 @@
 # The Iceberg Model
 
+<img src="assets/iceberg.png" alt="The Iceberg Model" width="220" align="right">
+
 A two-layer computational toy architecture in which the classic mysteries of
 quantum mechanics and relativity stop being mysterious: a **fixed-compute
 substrate** whose load bookkeeping makes spacetime, gravity, and expansion
