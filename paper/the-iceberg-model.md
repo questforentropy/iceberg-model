@@ -223,7 +223,7 @@ The model will change. The examinations will not be weakened.
 
 ## 8. Reproduction
 
-The companion archive contains the model, all examination definitions, and the runner; the full battery reproduces with one command (`python run_exams.py all --record solaris-1.0.0`), regenerating the 150-row table including the three red rows. Every number in §5–§6 appears in the printed output of its cited row. Archive: **github.com/questforentropy/iceberg-model** (the model's canonical home; this paper is its manifest) — *Zenodo DOI inserted at publication.*
+The companion archive contains the model, all examination definitions, and the runner; the full battery reproduces with one command (`python run_exams.py all --record solaris-1.0.0`), regenerating the 150-row table including the three red rows. Every number in §5–§6 appears in the printed output of its cited row. Archive: **github.com/questforentropy/iceberg-model** (the model's canonical home; this paper is its manifest). DOI: **10.5281/zenodo.22046196** (the Solaris 1.0.0 release snapshot); **10.5281/zenodo.22046195** (concept DOI — always resolves to the latest release).
 
 ---
 

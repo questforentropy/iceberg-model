@@ -1,5 +1,7 @@
 # The Iceberg Model
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22046196.svg)](https://doi.org/10.5281/zenodo.22046196)
+
 <img src="assets/iceberg.png" alt="The Iceberg Model" width="220" align="right">
 
 A two-layer computational toy architecture in which the classic mysteries of

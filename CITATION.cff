@@ -8,6 +8,11 @@ version: solaris-1.0.0
 date-released: 2026-08-20
 license: MIT
 repository-code: "https://github.com/questforentropy/iceberg-model"
+doi: 10.5281/zenodo.22046196
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22046195
+    description: "Concept DOI - resolves to the latest release"
 keywords:
   - quantum mechanics
   - emergent spacetime
