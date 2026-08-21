@@ -1,6 +1,6 @@
 ﻿# Set QM — the quantum exam
 
-Labs, in numbering order: `qm_tests.py` (QM-1..9), `ch_retake.py` (QM-10..29 = the CH-01..CH-19 retake of episode #3's suite), `born_settlement_scout.py` (QM-30..31), `lg_scout.py` (QM-32..33).
+QM-10..29 are the CH-01..CH-19 retake of the original standalone quantum suite.
 
 | ID | Row | Verifies |
 |---|---|---|
@@ -33,7 +33,7 @@ Labs, in numbering order: `qm_tests.py` (QM-1..9), `ch_retake.py` (QM-10..29 = t
 | QM-27 | CH-17 | apparatus recoil (MERGED into QM-24: the apparatus IS the record qubit) |
 | QM-28 | CH-18 | complex-unitary observer view (IMPORTED — disclosure, not a pass) |
 | QM-29 | CH-19 | no joint block: unentangled watcher gains nothing, visibility stays 1 |
-| QM-30 | DE1 | (`born_settlement_scout.py`) the signature ladder: 1 signer ∝ \|α\| (wrong), 2 signers = Born, 3 ∝ \|α\|³ (wrong) — the square comes from dyadic settlement |
+| QM-30 | DE1 | the signature ladder: 1 signer ∝ \|α\| (wrong), 2 signers = Born, 3 ∝ \|α\|³ (wrong) — the square comes from dyadic settlement |
 | QM-31 | DE2 | full QM battery with the Born line replaced by double-entry settlement — everything passes; residual import = norm-linear acceptance per signer |
-| QM-32 | LG1 | (`lg_scout.py`) Leggett–Garg watcher controls capped at 1: passive rotor sits exactly ON the ceiling (gaps ≤ 90°); ledger settled at all three checkpoints writes a diary of triples, K = 2cos t − cos²t ≤ 1 |
+| QM-32 | LG1 | Leggett–Garg watcher controls capped at 1: passive rotor sits exactly ON the ceiling (gaps ≤ 90°); ledger settled at all three checkpoints writes a diary of triples, K = 2cos t − cos²t ≤ 1 |
 | QM-33 | LG2 | temporal Bell violation by the fold: two checkpoints per run, three batches, settlement re-preparation → K = 2cos t − cos 2t, 3/2 at 60° (temporal Tsirelson) — identical under the double-entry sampler (article #11 cross-link) |

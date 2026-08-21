@@ -1,7 +1,5 @@
 ﻿# Set EX — expansion & cosmology
 
-Labs, in numbering order: `v3_expansion_scout.py` (EX-1..3), `m2_breathing_fabric.py` (EX-4..8), `m3_closed_fabric.py` (EX-9..11), `h1_ball_horizon.py` (EX-12..14). Queued additions: supernova (1+z) pulse stretch; closed-loop tax (z-rate ~ dS/dt).
-
 | ID | Row | Verifies |
 |---|---|---|
 | EX-1 | E1 | fixed space FEELS bigger: same hop-count world takes ×2.6 longer to cross as the ledger grows |

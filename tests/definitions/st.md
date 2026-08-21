@@ -1,8 +1,6 @@
 ﻿# Set ST — emergent spacetime
 
-Lab: `spacetime_tests.py` (ST-1..4).
-
-**Topology ruling (user, 2026-08-19):** the canonical closed 3D fabric is **S³** (the dimensional-ladder continuation of the measured S² instruments; homogeneous AND isotropic — a flat 3-torus has globally preferred wrap axes, at odds with the no-preferred-frame doctrine; conformally flat, so on the right side of the fakeability theorem). **T³ is the control build, not an assumption** — topology is a dial the exams test, per define-before-sit. Note: no 4th dimension enters the model — S³ is defined intrinsically; embedding coordinates are sprinkler scaffolding only (as 3D coords were for S²) and never appear in the exchange graph. Established (GR-31..33): the β=½ perihelion deviation is NOT a topology/dimension artifact — it survives the honest 3D port with a certified control; global topology is invisible at solar-system scale.
+Topology is a configuration dial the rows below test, never an assumption — the canonical choice and its rationale live in the model's configuration card.
 
 | ID | Row | Verifies |
 |---|---|---|

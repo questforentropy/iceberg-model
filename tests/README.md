@@ -1,16 +1,32 @@
 # The examination harness — approach and notation
 
 Every claim the model makes is a numbered examination row. This file is the one place the
-conventions are defined; the per-set files (`sub.md`, `qm.md`, …) carry only the set's
-description and its row table.
+conventions are defined.
+
+## Layout
+
+- **`definitions/`** — one file per set (`sub.md`, `qm.md`, …): the set's description and its
+  row table. Definitions are **version-independent**: they state the physics question and the
+  declared pass criterion, and never reference an implementation, its labs, or version names.
+  The mapping from row IDs to the code that prints them is implementation bookkeeping and
+  lives in the model description (`model/implementation.md`), next to the runner's set list.
+- **`results/`** — one generated file per recorded campaign, named by the instance's semantic
+  version (`solaris-1.0.0.md`, …). Files named `v1..v4` are the first implementation's
+  historical build-ladder records, kept as history.
 
 ## Numbering
 
-Rows are numbered **SET-N** (QM-1, GR-37, …), **positional in lab print order**: the runner
-walks the set's labs in their registered order and numbers the printed rows sequentially.
-Consequently rows are **append-only** — new labs and new checks are added at the end, and
-**IDs are never renumbered**. A row ID that has appeared in any recorded results table is
-frozen forever.
+Rows are numbered **SET-N** (QM-1, GR-37, …), **positional in print order**: the runner walks
+the set's registered labs in order and numbers the printed rows sequentially. Consequently
+rows are **append-only** — new labs and new checks are added at the end, and **IDs are never
+renumbered**. A row ID that has appeared in any recorded results table is frozen forever.
+
+## Pass criteria
+
+Each row's pass criterion is **declared in the definitions table** (the "Verifies" column)
+and **computed in the lab code** — the printed PASS/FAIL is the code's comparison of the
+measured value against the declared mark. The generated results table joins the two: for
+every row it shows the declared criterion beside the measured detail the lab printed.
 
 ## Statuses
 
@@ -42,12 +58,6 @@ frozen forever.
 ```
 python labs/run_exams.py all                      # run everything
 python labs/run_exams.py QM GR                    # run sets by name
-... --record solaris-1.0.0                        # also (re)generate exams/results/<name>.md
+... --record solaris-1.0.0                        # also (re)generate tests/results/<name>.md
 ... --expect-red GR-34,GR-35,GR-36                # CI gate: exit 0 iff the reds are EXACTLY these
 ```
-
-## Results files
-
-One file per recorded campaign in `exams/results/`, named by the instance's semantic version
-(`solaris-1.0.0.md`, …). Files named `v1..v4` are the historical build-ladder records of the
-first implementation, kept as history.

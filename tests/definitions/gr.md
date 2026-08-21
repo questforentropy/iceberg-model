@@ -1,7 +1,5 @@
 ﻿# Set GR — gravity
 
-Labs, in numbering order: `v2_gravity_scout.py` (GR-1..4), `v2_gravity_scout2.py` (GR-5..6), `w1_why_fall.py` (GR-7..8), `cow_exam.py` (GR-9..12), `length_scouts.py` (GR-13..15), `sphere_gr_scout.py` (GR-16..22). Tier-B queue (Shapiro, redshift ticks, holonomy, precession, crowd-on-sphere, wave-on-disguised-sphere) will append as GR-23+ when built — defined in `../../sphere-gr-exam.md`.
-
 | ID | Row | Verifies |
 |---|---|---|
 | GR-1 | G1 | Poisson far field (log d in 2D) from neighbor exchange only; dilation in EMPTY space (a field, not contact) |
@@ -37,9 +35,9 @@ Labs, in numbering order: `v2_gravity_scout.py` (GR-1..4), `v2_gravity_scout2.py
 | GR-31 | K3D | Kepler closure in 3D: eccentric orbits close (apsidal angle π) — the 2D precession drawback resolved as dimensional artifact |
 | GR-32 | BEND | absolute bending: leading coefficient = 4GM/b, the full GR value (γ = 1 measured), 1/b law |
 | GR-33 | PPN | the β = ½ audit: g₀₀ = −(1−GM/r)² gives perihelion advance 7/6 of GR (Schwarzschild control certifies the integrator) — a NAMED deviation: +17% on Mercury; deriving β = 1 is the sharpest open gravity dial |
-| GR-34 | FL1 | (`gr_first_law.py`, Dorau-Much bridge, marks declared 2026-08-20 BEFORE first run) dumb-hole thermodynamics, mass-radius: horizon radius vs absorbed flux J fits a power law with exponent p in [0.7, 1.3] (Schwarzschild pattern r_h ~ M). PRE-REGISTERED ALTERNATIVE: analog-gravity lore (Unruh) says horizon KINEMATICS need not bring Einstein DYNAMICS - a FAIL here is the recorded kinematics-only verdict, itself a finding |
+| GR-34 | FL1 | (Dorau-Much bridge; marks declared 2026-08-20 BEFORE first run) dumb-hole thermodynamics, mass-radius: horizon radius vs absorbed flux J fits a power law with exponent p in [0.7, 1.3] (Schwarzschild pattern r_h ~ M). PRE-REGISTERED ALTERNATIVE: analog-gravity lore (Unruh) says horizon KINEMATICS need not bring Einstein DYNAMICS - a FAIL here is the recorded kinematics-only verdict, itself a finding |
 | GR-35 | FL2 | temperature-mass: measured surface gravity kappa vs J fits exponent q in [-1.35, -0.65] (Schwarzschild pattern T ~ 1/M) - same pre-registered alternative as FL1 |
 | GR-36 | FL3 | the first-law closure: Clausius entropy S = INT 2pi dJ/kappa built from the MEASURED kappa(J) fits S ~ r_h^s with s in [1.5, 2.5] - the Bekenstein square (S ~ area in 3D reads S ~ r_h^2 here) assembled from two measured scalings, not installed |
-| GR-37 | FE1 | (`gr_compounding.py`) the compounding rate law: slowdowns COMPOUND (each shell taxes the already-taxed rate; rates multiply - the ledger-native composition) -> c = e^(-Phi) instead of 1-Phi -> g00 = -e^(-2GM/r), grr = e^(+2GM/r). Perihelion through the SAME certified integrator as GR-33: precession ratio to GR within 0.03 of the Schwarzschild control - **beta = 1 measured; the GR-33 deviation closed by changing the composition law, not the dictionary** |
+| GR-37 | FE1 | the compounding rate law: slowdowns COMPOUND (each shell taxes the already-taxed rate; rates multiply - the ledger-native composition) -> c = e^(-Phi) instead of 1-Phi -> g00 = -e^(-2GM/r), grr = e^(+2GM/r). Perihelion through the SAME certified integrator as GR-33: precession ratio to GR within 0.03 of the Schwarzschild control - **beta = 1 measured; the GR-33 deviation closed by changing the composition law, not the dictionary** |
 | GR-38 | FE2 | compounding bending: deflection still fits 4GM/b with leading coefficient in [0.95, 1.05] - gamma = 1 preserved (weak field identical; only second order moves) |
 | GR-39 | FE3 | no coordinate horizon: the compounded redshift e^(-GM/r) is finite, positive, monotone at every r > 0 (Schwarzschild control hits zero at 2GM) - the metric-level echo of the BH-4 compute floor: rate approaches 0, never reaches it |

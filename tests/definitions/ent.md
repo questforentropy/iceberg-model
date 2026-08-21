@@ -1,6 +1,6 @@
 ﻿# Set ENT — entropy proper
 
-Lab: `ent_scouts.py` (ENT-1..4), first rows cut 2026-08-17. Queued additions: the KS-rate port from the entropy stream's measured instrument (bits/collision on the full contract engine, not the binary chain).
+Queued additions: the KS-rate port (bits/collision measured on the full contract engine, not the binary chain).
 
 | ID | Row | Verifies |
 |---|---|---|

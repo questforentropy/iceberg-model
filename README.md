@@ -11,6 +11,12 @@ adequacy: we are not claiming to have built the universe on a laptop.
 **The paper is the model's manifest:** [`paper/the-iceberg-model.md`](paper/the-iceberg-model.md).
 Further papers will join it as the model evolves.
 
+**Which version is this checkout?** [`model/card.md`](model/card.md) — the single source of
+truth for the version triplet, with the three layers described beside it:
+[`model/architecture.md`](model/architecture.md) (the postulates),
+[`model/implementation.md`](model/implementation.md) (the mechanisms and the row-to-lab map),
+[`model/configuration.md`](model/configuration.md) (the dials).
+
 ## Run the examinations
 
 ```
@@ -21,8 +27,9 @@ python labs/run_exams.py all --record solaris-1.0.0 --expect-red GR-34,GR-35,GR-
 Expected: **150 rows - 147 pass and exactly 3 red.** The red rows (GR-34..36)
 are pre-registered findings kept deliberately (the paper's "Difficulties with
 the theory", item 4): their pass marks were declared before the first run and
-never softened. Row definitions live in `exams/tests/`; the recorded table in
-`exams/results/`. Individual sets run by name: `python labs/run_exams.py QM GR`.
+never softened. Version-independent row definitions live in `tests/definitions/`;
+the generated record - status, declared criterion, and measured detail per row -
+in `tests/results/`. Individual sets run by name: `python labs/run_exams.py QM GR`.
 
 All numbers - like every experiment behind them - were produced with AI
 assistance and are under continuing verification and validation; the
