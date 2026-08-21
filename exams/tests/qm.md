@@ -1,8 +1,6 @@
-# Set QM — the quantum exam
+﻿# Set QM — the quantum exam
 
-Labs, in numbering order: `qm_tests.py` (QM-1..9), `ch_retake.py` (QM-10..29 = the CH-01..CH-19 retake of episode #3's suite), `born_settlement_scout.py` (QM-30..31), `lg_scout.py` (QM-32..33). IDs are positional in lab print order; new tests append, never renumber.
-
-Statuses beyond PASS/FAIL: **PASS\*** = passes *by construction* (Born imported — the Machine-vs-ledger contrast); **BANKED** = delegated to the referenced row; **MERGED** = absorbed into another row; **IMPORTED** = true by construction, a disclosure, not a pass.
+Labs, in numbering order: `qm_tests.py` (QM-1..9), `ch_retake.py` (QM-10..29 = the CH-01..CH-19 retake of episode #3's suite), `born_settlement_scout.py` (QM-30..31), `lg_scout.py` (QM-32..33).
 
 | ID | Row | Verifies |
 |---|---|---|

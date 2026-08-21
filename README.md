@@ -15,7 +15,7 @@ Further papers will join it as the model evolves.
 
 ```
 pip install -r requirements.txt
-python labs/run_exams.py all --record v4 --expect-red GR-34,GR-35,GR-36
+python labs/run_exams.py all --record solaris-1.0.0 --expect-red GR-34,GR-35,GR-36
 ```
 
 Expected: **150 rows - 147 pass and exactly 3 red.** The red rows (GR-34..36)

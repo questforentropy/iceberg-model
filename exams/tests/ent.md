@@ -1,6 +1,6 @@
-# Set ENT — entropy proper
+﻿# Set ENT — entropy proper
 
-Lab: `ent_scouts.py` (ENT-1..4), first rows cut 2026-08-17. IDs are positional in lab print order; new tests append, never renumber. Queued additions: the KS-rate port from the entropy stream's measured instrument (bits/collision on the full contract engine, not the binary chain).
+Lab: `ent_scouts.py` (ENT-1..4), first rows cut 2026-08-17. Queued additions: the KS-rate port from the entropy stream's measured instrument (bits/collision on the full contract engine, not the binary chain).
 
 | ID | Row | Verifies |
 |---|---|---|

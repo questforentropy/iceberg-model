@@ -1,6 +1,6 @@
-# Set SUB — substrate & ledger mechanics
+﻿# Set SUB — substrate & ledger mechanics
 
-Labs, in numbering order: `smoke_test.py` (SUB-1..10), `chain_randomness_scout.py` (SUB-11..15), `uwf_scout.py` (SUB-16..18), `uwf_scout2.py` (SUB-19..21). IDs are positional in lab print order; new tests append, never renumber.
+Labs, in numbering order: `smoke_test.py` (SUB-1..10), `chain_randomness_scout.py` (SUB-11..15), `uwf_scout.py` (SUB-16..18), `uwf_scout2.py` (SUB-19..21).
 
 | ID | Row | Verifies |
 |---|---|---|

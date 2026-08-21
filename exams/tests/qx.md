@@ -1,6 +1,6 @@
-# Set QX — advanced quantum (X-roster)
+﻿# Set QX — advanced quantum (X-roster)
 
-Lab: `x_exams.py` (QX-1..10). X4 (eraser) was absorbed by QM-23 before this set was cut. IDs are positional in lab print order; new tests append, never renumber.
+Lab: `x_exams.py` (QX-1..10). X4 (eraser) was absorbed by QM-23 before this set was cut.
 
 | ID | Row | Verifies |
 |---|---|---|

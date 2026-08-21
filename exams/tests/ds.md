@@ -1,6 +1,6 @@
-# Set DS — discreteness & the ruler (doctrine set)
+﻿# Set DS — discreteness & the ruler (doctrine set)
 
-Lab: `discreteness_scout.py` (DS-1..2). Constrains ALL model versions (substrate design space, not any one version). Cross-listed evidence: GR-15 (quasicrystal = lattice, broken), ST-3 (sprinkle passes). IDs are positional; new tests append, never renumber.
+Lab: `discreteness_scout.py` (DS-1..2). Constrains ALL model versions (substrate design space, not any one version). Cross-listed evidence: GR-15 (quasicrystal = lattice, broken), ST-3 (sprinkle passes).
 
 Standing doctrine (measured): **fineness cures dynamics, randomness cures counting.** Grid ruling (user 2026-08-17): the sprinkle is laid down ONCE at genesis from iterated hashes — static grid, fixed compute; expansion and warping stay emergent. No dynamic grid.
 

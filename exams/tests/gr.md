@@ -1,6 +1,6 @@
-# Set GR — gravity
+﻿# Set GR — gravity
 
-Labs, in numbering order: `v2_gravity_scout.py` (GR-1..4), `v2_gravity_scout2.py` (GR-5..6), `w1_why_fall.py` (GR-7..8), `cow_exam.py` (GR-9..12), `length_scouts.py` (GR-13..15), `sphere_gr_scout.py` (GR-16..22). IDs are positional in lab print order; new tests append, never renumber. Tier-B queue (Shapiro, redshift ticks, holonomy, precession, crowd-on-sphere, wave-on-disguised-sphere) will append as GR-23+ when built — defined in `../../sphere-gr-exam.md`.
+Labs, in numbering order: `v2_gravity_scout.py` (GR-1..4), `v2_gravity_scout2.py` (GR-5..6), `w1_why_fall.py` (GR-7..8), `cow_exam.py` (GR-9..12), `length_scouts.py` (GR-13..15), `sphere_gr_scout.py` (GR-16..22). Tier-B queue (Shapiro, redshift ticks, holonomy, precession, crowd-on-sphere, wave-on-disguised-sphere) will append as GR-23+ when built — defined in `../../sphere-gr-exam.md`.
 
 | ID | Row | Verifies |
 |---|---|---|

@@ -1,6 +1,6 @@
-# Set FLU — the fluid dictionary
+﻿# Set FLU — the fluid dictionary
 
-Lab: `fluid_scouts.py` (FLU-1..5), cut 2026-08-17. FLU-1..3 are V3 rows (the engine was secretly a Madelung fluid); FLU-4..5 are the **V4 "flowing fabric" founding scouts** (design validation on toy machinery — the P10/M2 pattern: check before postulating). IDs positional, append-only. Design note: `../../v4-flowing-fabric.md`.
+Lab: `fluid_scouts.py` (FLU-1..5), cut 2026-08-17. FLU-1..3 are V3 rows (the engine was secretly a Madelung fluid); FLU-4..5 are the **V4 "flowing fabric" founding scouts** (design validation on toy machinery — the P10/M2 pattern: check before postulating).  Design note: `../../v4-flowing-fabric.md`.
 
 | ID | Row | Verifies |
 |---|---|---|

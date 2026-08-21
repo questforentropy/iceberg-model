@@ -1,6 +1,6 @@
-# Set BH — black holes & archives
+﻿# Set BH — black holes & archives
 
-Horizon rows (BH-1..3, `bh_scouts.py`) run on the V4 dumb hole DERIVED by FLU-8's budget dynamics (transport instrument certified by FLU-4). Compute-floor rows (BH-4..6, `bh_scouts2.py`) = the **density route** (2026-08-19): packed region → rate → 0 asymptotically, no singularity anywhere in the machine. Archive rows (BH-7..9) remain **V5-gated** (need the ball ledger's history interior). IDs positional in lab print order, append-only.
+Horizon rows (BH-1..3, `bh_scouts.py`) run on the V4 dumb hole DERIVED by FLU-8's budget dynamics (transport instrument certified by FLU-4). Compute-floor rows (BH-4..6, `bh_scouts2.py`) = the **density route** (2026-08-19): packed region → rate → 0 asymptotically, no singularity anywhere in the machine. Archive rows (BH-7..9) remain **V5-gated** (need the ball ledger's history interior). 
 
 *Numbering note (2026-08-19): the V5 archive placeholders formerly listed as BH-4..6 moved to BH-7..9 — they had never appeared in any recorded results table, and positional numbering must match lab print order. No recorded ID changed.*
 

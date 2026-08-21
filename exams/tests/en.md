@@ -1,6 +1,6 @@
-# Set EN — energy & Noether
+﻿# Set EN — energy & Noether
 
-Labs, in numbering order: `noether_scouts.py` (EN-1..4), `unruh_scout.py` (EN-5..6, Dorau–Much bridge). IDs are positional in lab print order; new tests append, never renumber. Queued additions: the closed-loop audit (energy lost = bits written × price) once v3 feeds the tax from the real ledger.
+Labs, in numbering order: `noether_scouts.py` (EN-1..4), `unruh_scout.py` (EN-5..6, Dorau–Much bridge). Queued additions: the closed-loop audit (energy lost = bits written × price) once v3 feeds the tax from the real ledger.
 
 | ID | Row | Verifies |
 |---|---|---|
