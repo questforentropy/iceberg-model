@@ -3,6 +3,7 @@
 **Marijus Masteika**
 Independent researcher
 masteris@gmail.com
+Series: *Quest for Entropy* — questforentropy.substack.com
 
 *Version 2.1 — 2026-08-21 — documents Iceberg manifest 1, reference instance **Solaris 1.0.0** — this repository is the paper's source of truth; changes arrive as visible commits*
 
@@ -56,7 +57,7 @@ The reference instance is **Solaris 1.0.0**: manifest 1, first complete implemen
 
 ### 1.5 Method of production
 
-The author is a software architect, not a physicist. The direction, the main concepts and ideas, the questions, the postulates' framing, and the accept/reject calls are his; the mathematics, the code, and the numerical work were produced with AI assistance under an adversarial harness (Acknowledgements): pass marks declared before each run and never softened, results challenged in independent adversarial review passes, and errors recorded rather than erased. Every number in this paper is printed by code in the companion archive.
+The author is a software architect, not a physicist. The direction, the main concepts and ideas, the questions, the postulates' framing, and the accept/reject calls are his; the mathematics, the code, the numerical work, *and the texts themselves — this paper included —* were produced with AI assistance from the author's guidance, under an adversarial harness (Acknowledgements): pass marks declared before each run and never softened, results challenged in independent adversarial review passes, and errors recorded rather than erased. Every number in this paper is printed by code in the companion archive.
 
 ---
 
@@ -228,7 +229,7 @@ The companion archive contains the model, all examination definitions, and the r
 
 ## Acknowledgements and AI assistance disclosure
 
-This work was produced by the author with substantial AI assistance: Anthropic's Claude models (Claude Fable, Claude Opus, Claude Sonnet) and DeepSeek. The division of labour: the author set the direction, originated the main concepts and ideas, posed the questions, supplied the framing postulates and rulings, and made every accept/reject call; the AI systems performed the mathematics, wrote and ran the code, executed the physics checks, and drafted text under the author's editing. The work was conducted under an adversarial harness: examination pass marks declared before running and never softened afterwards; results challenged in independent adversarial review passes; instrument errors and overclaims recorded in a correction log rather than erased. All results remain under continuing verification and validation. The author regards full disclosure of AI involvement, together with one-command reproducibility of every number, as the appropriate response to the reasonable question of how one knows the AI did not fool the author.
+This work was produced by the author with substantial AI assistance: Anthropic's Claude models (Claude Fable, Claude Opus, Claude Sonnet) and DeepSeek. The division of labour: the author set the direction, originated the main concepts and ideas, posed the questions, supplied the framing postulates and rulings, and made every accept/reject call; the AI systems performed the mathematics, wrote and ran the code, executed the physics checks, and wrote the texts — this paper and the series' publications — from the author's guidance and under his editing. The work was conducted under an adversarial harness: examination pass marks declared before running and never softened afterwards; results challenged in independent adversarial review passes; instrument errors and overclaims recorded in a correction log rather than erased. All results remain under continuing verification and validation. The author regards full disclosure of AI involvement, together with one-command reproducibility of every number, as the appropriate response to the reasonable question of how one knows the AI did not fool the author.
 
 ## References
 

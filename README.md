@@ -28,7 +28,16 @@ All numbers - like every experiment behind them - were produced with AI
 assistance and are under continuing verification and validation; the
 one-command reproduction exists precisely so any reader can check any number
 independently. Discrepancies you find are exactly the contribution this
-repository invites.
+repository invites. The texts - the paper and the series' publications - are
+likewise AI-written from the author's guidance and under his editing.
+
+## Author
+
+**Marijus Masteika** - independent researcher (masteris@gmail.com)
+
+- The series: [Quest for Entropy](https://questforentropy.substack.com)
+- Substack: [@masteris](https://substack.com/@masteris)
+- LinkedIn: [marijus-masteika](https://www.linkedin.com/in/marijus-masteika/)
 
 ## Versions and branches
 
