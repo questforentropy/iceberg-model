@@ -24,6 +24,12 @@ the theory", item 4): their pass marks were declared before the first run and
 never softened. Row definitions live in `exams/tests/`; the recorded table in
 `exams/results/`. Individual sets run by name: `python labs/run_exams.py QM GR`.
 
+All numbers - like every experiment behind them - were produced with AI
+assistance and are under continuing verification and validation; the
+one-command reproduction exists precisely so any reader can check any number
+independently. Discrepancies you find are exactly the contribution this
+repository invites.
+
 ## Versions and branches
 
 Semantic versioning `<instance> M.m.p`: **M** = architecture (manifest) major,
@@ -37,10 +43,24 @@ Semantic versioning `<instance> M.m.p`: **M** = architecture (manifest) major,
 - A future second named instance would get its own long-lived branch; an
   architecture change bumps M on `main`.
 
-## Licenses
+## Licenses, attribution, and citation
 
 Code: [MIT](LICENSE). Paper and documentation: [CC BY 4.0](LICENSE-docs.md).
 Clone, fork, and build on it - with attribution.
+
+**Attribution request (beyond the license):** if you present or build on the
+*concepts* of this work in any medium - a video, an article, a talk, a journal
+paper - please credit the author and cite the paper (see `CITATION.cff`; a
+DOI is attached at each release). The license binds reuse of the material;
+crediting the ideas is the scholarly norm this request appeals to, and the
+release history here is the dated record of where they came from.
+
+## arXiv endorsement
+
+The author is an independent researcher. If you are an active arXiv author in
+quant-ph or a related category and - after reading the paper - consider it
+appropriate for the category, an arXiv endorsement would be appreciated:
+masteris@gmail.com.
 
 ## Contributing
 
