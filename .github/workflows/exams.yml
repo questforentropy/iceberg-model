@@ -9,4 +9,5 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - run: python labs/run_exams.py all --expect-red $(sed -n 's/^expected red: //p' model/card.md)
+      - run: |
+          python labs/run_exams.py all --expect-red $(sed -n 's/^expected red: //p' model/card.md)
