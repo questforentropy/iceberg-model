@@ -47,6 +47,7 @@ likewise AI-written from the author's guidance and under his editing.
 
 **Marijus Masteika** - independent researcher (masteris@gmail.com)
 
+- ORCID: [0009-0004-2464-3008](https://orcid.org/0009-0004-2464-3008)
 - The series: [Quest for Entropy](https://questforentropy.substack.com)
 - Substack: [@masteris](https://substack.com/@masteris)
 - LinkedIn: [marijus-masteika](https://www.linkedin.com/in/marijus-masteika/)

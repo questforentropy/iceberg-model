@@ -2,7 +2,7 @@
 
 **Marijus Masteika**
 Independent researcher
-masteris@gmail.com
+masteris@gmail.com — ORCID [0009-0004-2464-3008](https://orcid.org/0009-0004-2464-3008)
 Series: *Quest for Entropy* — questforentropy.substack.com
 
 *Version 2.2 — 2026-08-21 — documents Iceberg manifest 1, reference instance **Solaris 1.0.0** — this repository is the paper's source of truth; changes arrive as visible commits*
