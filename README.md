@@ -12,8 +12,9 @@ shared contract, measurement as settlement, the universal wave function
 stored factorized. The claim is mechanism sufficiency, not empirical
 adequacy: we are not claiming to have built the universe on a laptop.
 
-**The paper is the model's manifest:** [`paper/the-iceberg-model.md`](paper/the-iceberg-model.md).
-Further papers will join it as the model evolves.
+**The paper is the model's manifest:** [`paper/the-iceberg-model.md`](paper/the-iceberg-model.md)
+(canonical; also as [PDF](paper/the-iceberg-model.pdf), with the [LaTeX source](paper/the-iceberg-model.tex)
+generated from the markdown). Further papers will join it as the model evolves.
 
 **Which version is this checkout?** [`model/card.md`](model/card.md) — the single source of
 truth for the version triplet, with the three layers described beside it:
